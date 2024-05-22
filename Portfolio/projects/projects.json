@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Online Car Auction System",
+    "desc": "Create a Dynamic Live Website for a Private Organisation though the client requirements for an online Used car auction system.Using Html,Css,ajax,jquery,Bootstrap,Sql,PostgreSql and Php also using phpmyadmin and Supabase for databases.",
+    "image": "CBIFS",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Learning Management System",
+    "desc": "Create a Dynamic Website for Learning Organisation though the client requirements.Using Html,Css,Bootstrap,Sql and Php also using phpmyadmin for database.",
+    "image": "nviron",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "School Management System",
+    "desc": "Create a Dynamic Website for School Organisation though the client requirements.Using Html,Css,Bootstrap,Sql and Php also using phpmyadmin for database.",
+    "image": "nextxen",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "College Management System",
+    "desc": "Create a Dynamic Website for School Organisation though the client requirements.Using Html,Css,Bootstrap,Sql and Php also using phpmyadmin for database.",
+    "image": "nimte",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Static Website",
+    "desc": "Organization.Various Static Websites for Different types of Organisation like an Orphanage and unisex parlor and many more though the client requirements and implement in the website..",
+    "image": "smilysmart",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+]
